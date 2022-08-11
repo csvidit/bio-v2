@@ -1,0 +1,1 @@
+hover:drop-shadow-[0_5px_10px_rgba(14,165,233,0.5)]
