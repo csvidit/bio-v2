@@ -52,3 +52,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
     opacity: 1;
   }
 }
+
+.ed-img{
+	max-width: 16px;
+}
